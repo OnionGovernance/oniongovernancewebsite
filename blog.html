@@ -5,10 +5,14 @@ permalink: /blog/
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  <p>Add blog descirption here</p>
+  <article class="post">
+
+    <div class="post-content">
+      <h1>What do we use this for?</h1>
+      <p>Blog info goes here</p>
+    </div>
+  
+  </article>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
