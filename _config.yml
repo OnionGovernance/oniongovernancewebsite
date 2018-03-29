@@ -16,7 +16,7 @@
 title: Onion Governance
 author: T.R. Eimer & J. Luimers
 email: oniongovernance@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+descriptionfoot: >- # this means to ignore newlines until "baseurl:"
   In this project, we want to examine how property rights are defined and enforced on the dark net without traditional state authorities being able to enforce or control them. From this perspective, we ask ourselves how the emerging social order on the dark net can be characterized.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
